@@ -19,7 +19,5 @@ If you're on Steam Deck, download the [desktop file](https://raw.githubuserconte
 
 From there, you can run SoH without having to re-do all of these steps.
 
-See my [ROM dumping guide for Steam Deck](https://linuxgamingcentral.com/posts/ship-of-harkinian-steam-deck-guide/) if you need more help.
-
 ## Known Issues
 - Adding SoH as a non-Steam shortcut can be hit or miss, you will likely need to manually add it.
